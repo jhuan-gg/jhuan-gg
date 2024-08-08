@@ -1,6 +1,8 @@
-# Olá 👋
+# Olá! 👋
 
 Me chamo Jhuan Gabriel Rocha, profissional de tecnologia com 2 anos de experiência em desenvolvimento de software. Tenho trabalhado extensivamente com tecnologias como React, React Native, Node.js, AWS, MySQL e Docker, desenvolvendo soluções tanto frontend quanto backend.
+
+Acesse meu Portfólio e me conheça melhor: [**My Portfolio**](https://my-portifo.vercel.app/)
 
 ## Experiência 📚
 
