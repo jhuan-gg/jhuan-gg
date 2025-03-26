@@ -12,11 +12,6 @@ Acesse meu Portfólio e me conheça melhor: [**My Portfolio**](https://my-portif
 - **Serviços de Nuvem:** Experiência com AWS, incluindo o gerenciamento de servidores e serviços escaláveis.
 - **Containerização:** Uso de Docker para criar ambientes de desenvolvimento isolados e consistentes.
 
-## Realizações 🏆
-
-- **Projetos Independentes:** Desenvolvimento de uma "to do list" como primeiro projeto independente, aplicando conhecimentos adquiridos na faculdade e em experiências anteriores.
-- **Colaboração:** Habilidade em trabalhar tanto de forma autônoma quanto em equipe, adaptando-se a diferentes ambientes de trabalho.
-
 ## Aprendizado Contínuo 🧠
 
 Estou sempre buscando aprender novas tecnologias e expandir minhas habilidades. Atualmente, estou focado em aprimorar meu conhecimento em React-native e MySql para enfrentar novos desafios e continuar evoluindo como profissional.
