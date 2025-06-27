@@ -1,60 +1,82 @@
 
-# Olá! 👋
+<h1 align="center">👋 Olá, eu sou o Jhuan!</h1>
 
-Sou Jhuan Gabriel Nascimento Rocha, desenvolvedor com sólida experiência em tecnologia e mais de 2 anos de atuação em projetos de software, automação e mobilidade. Tenho como foco principal a criação de soluções eficientes e escaláveis, aplicando as melhores práticas de desenvolvimento moderno para Web e Mobile.
+<p align="center">
+  <b>Desenvolvedor focado em soluções Mobile, Web e Automação</b><br>
+  <i>React Native • Firebase • JavaScript • DevOps • Segurança da Informação</i>
+</p>
 
-Minha especialidade está no desenvolvimento de aplicações móveis com **React Native**, utilizando **JavaScript** como linguagem principal, e **Firebase** como backend, banco de dados NoSQL e plataforma de autenticação.
-
-🔗 Confira meu portfólio: [**My Portfolio**](https://my-portifo.vercel.app/)
+<p align="center">
+  <a href="https://my-portifo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-Visitar-informational?style=flat&logo=vercel&logoColor=white&color=black" />
+  </a>
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&style=flat" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+</p>
 
 ---
 
 ## 🚀 Expertise Técnica
 
 - **Desenvolvimento Web e Mobile:**  
-  Criação de interfaces modernas, responsivas e performáticas com **React** e **React Native**, entregando experiências completas e funcionais.
+  Interfaces modernas, performáticas e responsivas com **React** e **React Native**.
 
 - **Automação de Processos:**  
-  Desenvolvimento de sistemas personalizados para automatização de fluxos de trabalho, contribuindo para eficiência operacional em ambientes corporativos.
+  Sistemas para automatização de fluxos de trabalho em ambientes corporativos.
 
-- **Mobile First e Integrações Nativas:**  
-  Especialista em arquitetura mobile, com domínio em **React Native** e integração com APIs, serviços de terceiros e recursos nativos.
+- **Mobile First:**  
+  Especialista em **React Native**, com integração de APIs e recursos nativos.
 
-- **Backend e API Development:**  
-  Construção de APIs escaláveis utilizando **Node.js** e integração com **Firebase Functions**, aplicando boas práticas de design e segurança.
+- **Backend:**  
+  APIs escaláveis com **Node.js**, uso de **Firebase Functions** e RESTful.
 
-- **Banco de Dados e Armazenamento:**  
-  Expertise em **Firebase** (Realtime Database, Firestore, Auth, Storage) e conhecimento sólido em **MySQL** e estruturação de dados **NoSQL**.
+- **Banco de Dados:**  
+  **Firebase (Firestore, Realtime DB, Auth, Storage)** como stack principal, além de experiência com **MySQL** e modelagem **NoSQL**.
 
-- **Containerização e DevOps:**  
-  Uso de **Docker** para gerenciamento de ambientes isolados, versionamento de aplicações e entrega contínua em ambientes controlados.
+- **DevOps e Docker:**  
+  Ambientes isolados com **Docker**, deploy automatizado e versionamento eficiente.
 
 - **Segurança da Informação:**  
-  Entusiasta em **cibersegurança**, com foco em identificação de vulnerabilidades, testes de intrusão (pentest em ambientes de laboratório) e implementação de boas práticas de segurança.
+  Práticas de verificação de vulnerabilidades, pentest em laboratório e segurança de aplicações.
 
-- **Scripting e Ambiente Windows:**  
-  Desenvolvimento de **scripts automatizados para Windows**, aplicando soluções práticas para tarefas repetitivas e de manutenção de sistemas.
-
-- **Ferramentas e Boas Práticas:**  
-  Controle de versão com **Git**, deploys automatizados, CI/CD, testes, documentação e integração com serviços em nuvem.
+- **Scripting Windows:**  
+  Automatizações via terminal e scripts em ambiente Windows.
 
 ---
 
 ## 📚 Em Constante Evolução
 
-Sou movido por desafios técnicos e estou sempre buscando aprofundar meu conhecimento. Atualmente, foco meus estudos em:
+<details>
+  <summary>💡 Atualmente estudando:</summary>
 
-- Estratégias avançadas de segurança da informação e testes de invasão.  
-- Otimização e escalabilidade de apps mobile com React Native.  
-- Boas práticas DevOps com Docker e integração contínua.
+  - 🔐 Testes de intrusão e segurança ofensiva  
+  - ⚙️ DevOps e práticas modernas de CI/CD  
+  - 📱 Novas abordagens com React Native  
+</details>
+
+---
+
+## 🧰 Ferramentas & Tecnologias
+
+| Área             | Ferramentas / Tecnologias                                           |
+|------------------|---------------------------------------------------------------------|
+| Linguagens       | JavaScript, TypeScript                                              |
+| Frontend         | React, React Native                                                 |
+| Backend          | Node.js, Firebase Functions                                         |
+| Bancos de Dados  | Firestore, Realtime Database, MySQL                                |
+| DevOps           | Docker, Git, GitHub Actions                                         |
+| Segurança        | Pentesting em laboratório, OWASP Top 10                            |
+| Outros           | VS Code, Postman, Notion, Vercel                                    |
 
 ---
 
 ## 📞 Vamos Conversar?
 
-- **LinkedIn:** [Jhuan Gabriel](https://www.linkedin.com/in/jhuan-gabriel-nascimento-rocha)  
-- **Instagram:** [@jhuan.zin](https://www.instagram.com/jhuan.zin)  
-- **GitHub:** [@Jhuan-gg](https://github.com/jhuan-gg)  
-- **Email:** [gjhuan672@gmail.com](mailto:gjhuan672@gmail.com?subject=Business%20inquiry%20from%20professional%20site)
+- [LinkedIn](https://www.linkedin.com/in/jhuan-gabriel-nascimento-rocha)
+- [Instagram](https://www.instagram.com/jhuan.zin)
+- [GitHub](https://github.com/jhuan-gg)
+- [Email](mailto:gjhuan672@gmail.com?subject=Business%20inquiry%20from%20professional%20site)
 
 ---
