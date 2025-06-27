@@ -1,3 +1,4 @@
+
 # Olá! 👋
 
 Sou Jhuan Gabriel Nascimento Rocha, desenvolvedor com sólida experiência em tecnologia e mais de 2 anos de atuação em projetos de software, automação e mobilidade. Tenho como foco principal a criação de soluções eficientes e escaláveis, aplicando as melhores práticas de desenvolvimento moderno para Web e Mobile.
@@ -57,4 +58,3 @@ Sou movido por desafios técnicos e estou sempre buscando aprofundar meu conheci
 - **Email:** [gjhuan672@gmail.com](mailto:gjhuan672@gmail.com?subject=Business%20inquiry%20from%20professional%20site)
 
 ---
-
