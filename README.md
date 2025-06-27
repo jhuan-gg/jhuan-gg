@@ -1,38 +1,60 @@
 # Olá! 👋
 
-Me chamo Jhuan Gabriel Nascimento Rocha, sou desenvolvedor com cerca de 2 anos de experiência em tecnologia, atuando em projetos que envolvem desde o desenvolvimento de aplicações móveis e web até automações de fluxo de trabalho e soluções backend escaláveis. 
+Sou Jhuan Gabriel Nascimento Rocha, desenvolvedor com sólida experiência em tecnologia e mais de 2 anos de atuação em projetos de software, automação e mobilidade. Tenho como foco principal a criação de soluções eficientes e escaláveis, aplicando as melhores práticas de desenvolvimento moderno para Web e Mobile.
 
-Trabalho principalmente com **JavaScript**, tendo como principais stacks **React**, **React Native** e **Node.js**. Minha especialidade está no desenvolvimento mobile com **React Native**, além do uso do **Firebase** como backend principal, tanto para autenticação quanto para banco de dados **NoSQL**.
+Minha especialidade está no desenvolvimento de aplicações móveis com **React Native**, utilizando **JavaScript** como linguagem principal, e **Firebase** como backend, banco de dados NoSQL e plataforma de autenticação.
 
-🔗 Acesse meu portfólio: [**My Portfolio**](https://my-portifo.vercel.app/)
-
----
-
-## 🚀 Habilidades e Experiência
-
-- **Aplicações Web e Mobile:** Criação de apps responsivos, com foco em performance e experiência do usuário, usando React e React Native.
-- **Automação de Fluxos de Trabalho:** Desenvolvimento de sistemas personalizados para automatizar tarefas e rotinas em ambientes corporativos.
-- **Mobile First:** Especialista em **React Native**, criando apps nativos com integração total com serviços externos.
-- **Banco de Dados:** Uso intensivo de **Firebase** como base principal, além de experiência com **MySQL** e modelagem de dados em NoSQL.
-- **Backend:** Desenvolvimento de APIs com **Node.js**, integração com Firebase Functions e uso de boas práticas REST.
-- **Docker:** Criação de ambientes isolados e escaláveis usando contêineres Docker em projetos de desenvolvimento e produção.
-- **Cibersegurança:** Entusiasta da área, com foco em **verificação de vulnerabilidades**, **testes de pentest em laboratório** e boas práticas de segurança em aplicações web/mobile.
-- **Scripts e Automação no Windows:** Familiaridade com scriptização em ambiente Windows, automação de rotinas e manipulação de sistema via terminal e scripts.
-- **Outras Tecnologias:** Experiência com integração de serviços externos, deploys automatizados, versionamento com Git e manutenção de aplicações em nuvem.
+🔗 Confira meu portfólio: [**My Portfolio**](https://my-portifo.vercel.app/)
 
 ---
 
-## 🧠 Aprendizado Contínuo
+## 🚀 Expertise Técnica
 
-Sou movido por desafios e aprendizado constante. Atualmente, venho aprofundando meu conhecimento em segurança da informação, testes de invasão, novas features do React Native e práticas modernas de DevOps com Docker.
+- **Desenvolvimento Web e Mobile:**  
+  Criação de interfaces modernas, responsivas e performáticas com **React** e **React Native**, entregando experiências completas e funcionais.
+
+- **Automação de Processos:**  
+  Desenvolvimento de sistemas personalizados para automatização de fluxos de trabalho, contribuindo para eficiência operacional em ambientes corporativos.
+
+- **Mobile First e Integrações Nativas:**  
+  Especialista em arquitetura mobile, com domínio em **React Native** e integração com APIs, serviços de terceiros e recursos nativos.
+
+- **Backend e API Development:**  
+  Construção de APIs escaláveis utilizando **Node.js** e integração com **Firebase Functions**, aplicando boas práticas de design e segurança.
+
+- **Banco de Dados e Armazenamento:**  
+  Expertise em **Firebase** (Realtime Database, Firestore, Auth, Storage) e conhecimento sólido em **MySQL** e estruturação de dados **NoSQL**.
+
+- **Containerização e DevOps:**  
+  Uso de **Docker** para gerenciamento de ambientes isolados, versionamento de aplicações e entrega contínua em ambientes controlados.
+
+- **Segurança da Informação:**  
+  Entusiasta em **cibersegurança**, com foco em identificação de vulnerabilidades, testes de intrusão (pentest em ambientes de laboratório) e implementação de boas práticas de segurança.
+
+- **Scripting e Ambiente Windows:**  
+  Desenvolvimento de **scripts automatizados para Windows**, aplicando soluções práticas para tarefas repetitivas e de manutenção de sistemas.
+
+- **Ferramentas e Boas Práticas:**  
+  Controle de versão com **Git**, deploys automatizados, CI/CD, testes, documentação e integração com serviços em nuvem.
 
 ---
 
-## 📞 Contato
+## 📚 Em Constante Evolução
 
-- **Linkedin:** [Jhuan Gabriel](https://www.linkedin.com/in/jhuan-gabriel-nascimento-rocha)  
+Sou movido por desafios técnicos e estou sempre buscando aprofundar meu conhecimento. Atualmente, foco meus estudos em:
+
+- Estratégias avançadas de segurança da informação e testes de invasão.  
+- Otimização e escalabilidade de apps mobile com React Native.  
+- Boas práticas DevOps com Docker e integração contínua.
+
+---
+
+## 📞 Vamos Conversar?
+
+- **LinkedIn:** [Jhuan Gabriel](https://www.linkedin.com/in/jhuan-gabriel-nascimento-rocha)  
 - **Instagram:** [@jhuan.zin](https://www.instagram.com/jhuan.zin)  
-- **Github:** [@Jhuan-gg](https://github.com/jhuan-gg)  
+- **GitHub:** [@Jhuan-gg](https://github.com/jhuan-gg)  
 - **Email:** [gjhuan672@gmail.com](mailto:gjhuan672@gmail.com?subject=Business%20inquiry%20from%20professional%20site)
 
 ---
+
