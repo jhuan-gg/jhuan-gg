@@ -1,4 +1,4 @@
-<h1 align="center">👋 Seja bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center">👋 Seja bem-vindo(a)</h1>
 
 <h3 align="center">"Prazer, sou o Jhuan Gabriel!"</h3>
 
