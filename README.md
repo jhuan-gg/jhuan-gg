@@ -99,7 +99,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em soluções **mobile-fi
   </a>
 
   <a href="https://github.com/jhuan-gg">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuan-gg&layout=compact&langs_count=8&theme=radical" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuan-gg&layout=compact&langs_count=8&theme=radical&hide=c" />
   </a>
 
 </div>
