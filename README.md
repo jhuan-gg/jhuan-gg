@@ -146,6 +146,6 @@ Ferramenta para gerar rotas otimizadas a partir de grandes volumes de dados. Ide
 📧 Email: [gjhuan672@gmail.com](mailto:gjhuan672@gmail.com)  
 📱 Instagram: [@jhuan.zin](https://www.instagram.com/jhuan.zin)  
 💼 LinkedIn: [Jhuan Gabriel](https://www.linkedin.com/in/jhuan-gabriel-nascimento-rocha)  
-🌐 Portfólio: [my-portifo.vercel.app](https://my-portifo.vercel.app/)
+🌐 Portfólio: [Meu Portifólio](https://jhuan-portifolio.vercel.app/)
 
 ---
