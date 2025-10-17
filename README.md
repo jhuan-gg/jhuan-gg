@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portifo.vercel.app/" target="_blank">
+  <a href="https://jhuan-portifolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-Visitar-informational?style=flat&logo=vercel&logoColor=white&color=black" />
   </a>
   <a href="mailto:gjhuan672@gmail.com">
